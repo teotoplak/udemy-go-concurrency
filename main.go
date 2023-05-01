@@ -2,5 +2,7 @@ package main
 
 func main() {
 	//MutexExample()
-	ProducerConsumerExample()
+	//ProducerConsumerExample()
+	//BarberShopExample()
+	TestingChannels()
 }
